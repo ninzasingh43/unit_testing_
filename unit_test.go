@@ -46,5 +46,5 @@ func BenchmarkAdd(b *testing.B) {
 
 func ExampleAdd() {
 	fmt.Println(Add(4, 6))
-	//output:10
+	// Output: 10
 }
